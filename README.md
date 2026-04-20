@@ -1,10 +1,12 @@
 **Project Title**
 
-[Enter your project name here]
+[Vetris]
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+[This project is an interactive Tetris game built using an LED matrix and a microcontroller. The game allows Player 1 to control the movement of falling pieces using physical buttons, while Player 2 can select the next piece through a web interface using a mobile device.
+
+The system combines hardware (LED grid and buttons) with software (game logic and web server) to create a collaborative and engaging gameplay experience. The project focuses on integrating electronics, programming, and user interaction into a single functional system.]
 
 
 **📂 Repository Structure**
@@ -28,4 +30,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+[Harini and Stuti]
