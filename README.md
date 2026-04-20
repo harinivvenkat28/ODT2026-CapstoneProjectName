@@ -29,5 +29,4 @@ Project Documents → Design thinking, planning, testing
 Media → Weekly progress and final output
 
 
-**👥 Team Members**
- Harini and Stuti
+**👥 Team Members** - Harini and Stuti
