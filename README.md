@@ -30,4 +30,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-Harini and Stuti
+ Harini and Stuti
